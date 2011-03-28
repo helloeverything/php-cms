@@ -1,0 +1,15 @@
+*								{ margin: 0; padding: 0; }
+body							{ font: 12px "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande"; background: #ccc;}
+#page-wrap						{ width: 500px; margin: 50px auto; padding: 20px; background: white; border: 1px solid #999 }
+
+h1, h2, h3						{ font: 28px Georgia, Serif; border-bottom: 1px dotted #ccc;
+								  margin: 0 0 10px 0; }
+h1 {text-align: center; font-size: 34px; padding: 5px; color: #fff; background-color: #000; border-bottom: 4px double}
+.clear							{ clear: both; }
+input[type="text"], textarea	{ padding: 3px; border: 1px solid #666; width: 350px;
+								  margin: 0 0 15px 0; }
+input[type="text"]				{ font: 28px Georgia, Serif; }
+textarea						{ height: 100px; font: 12px "Lucida Grande", Sans-Serif; }
+label							{ background: #666; color: white; padding: 2px 6px; }
+
+.post							{ margin: 0 0 20px 0; }
