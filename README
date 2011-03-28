@@ -1,0 +1,1 @@
+This is a very basic CMS built using PHP and MySQL. It currently provides very little security (could easily be subject to SQL injections). It was completed as a university project.
