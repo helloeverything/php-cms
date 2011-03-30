@@ -20,10 +20,10 @@
       $obj = new simpleCMS();
 
 	  /* CHANGE THESE SETTINGS FOR YOUR OWN DATABASE */
-      $obj->host = 'internal-db.s92997.gridserver.com';
-      $obj->username = 'db92997_phpcms';
-      $obj->password = 'phpcms234';
-      $obj->table = 'db92997_phpcms';
+      $obj->host = 'hostname';
+      $obj->username = 'username';
+      $obj->password = 'password';
+      $obj->table = 'dbname';
       $obj->connect();
     
       if ( $_POST )
